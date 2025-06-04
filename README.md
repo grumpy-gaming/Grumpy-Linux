@@ -1,4 +1,5 @@
 # Grumpy Linux
+<img src="images/grumpy_linux.jpg" alt="Grumpy Linux Logo" width="480" align="center">  
 *A fully custom Linux distribution, built from scratch.*
 
 ## Overview
